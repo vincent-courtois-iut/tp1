@@ -1,0 +1,27 @@
+[
+  {
+    "lastname": "Johnson",
+    "firstname": "Creola Katherine",
+    "job": "Mathematician"
+  },
+  {
+    "lastname": "Molina-Pasquel Henríquez",
+    "firstname": "Mario José",
+    "job": "Chemist"
+  },
+  {
+    "lastname": "Abdus Salam",
+    "firstname": "Mohammad",
+    "job": "Physicist"
+  },
+  {
+    "lastname": "Julian",
+    "firstname": "Percy Lavon",
+    "job": "Chemist"
+  },
+  {
+    "lastname": "Chandrasekhar",
+    "firstname": "Subrahmanyan",
+    "job": "Astrophysicist"
+  }
+]
