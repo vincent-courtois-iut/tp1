@@ -3,7 +3,7 @@ export default function List({ scientists }) {
     <ul>
       {scientists.map(scientist => {
         return (
-          <li>{scientist.firstname} {scientist.lastname} - {scientist.job}</li>
+          <li key={scientist.firstname}>{scientist.firstname} {scientist.lastname} - {scientist.job}</li>
         );
       })}
     </ul>
